@@ -1,5 +1,8 @@
 # TP-Réseaux
 
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/fffd7993-c73b-4deb-b525-1dc325e503be" />
+
+
 Nommez les équipements tels qu’ils apparaissent sur le schéma.
 
 Faire la configuration basique du réseau
@@ -57,3 +60,6 @@ Configuration du sans-fil avec les informations suivantes :
 2 SSID : final
 
 3 Authentification WPA2 personnal clé partagé : jemangeunepomme
+
+<img width="1915" height="1019" alt="image" src="https://github.com/user-attachments/assets/82860456-3f96-48fe-b051-c225365e56a8" />
+
