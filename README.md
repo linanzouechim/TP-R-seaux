@@ -1,4 +1,4 @@
-# TP-R-seaux
+# TP-Reseaux
 
 Nommez les équipements tels qu’ils apparaissent sur le schéma.
 
